@@ -1,0 +1,4 @@
+.gradient {
+  background: -o-linear-gradient(right, rgba(55, 58, 65, 0.648) 28px, rgba(45, 210, 27, 0.708) 77%, rgba(25, 176, 218, 0.909));
+  background:    linear-gradient(to left, rgba(138, 47, 33, 0.648) 28px, rgba(29, 169, 212, 0.708) 77%, rgba(218, 211, 77, 0.909));
+}
